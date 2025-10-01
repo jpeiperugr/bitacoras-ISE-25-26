@@ -1,3 +1,6 @@
+#Autor
+Javier Peinado Pérez A2
+
 # Bitácoras de Prácticas de Ingeniería de Servidores - Curso 25/26
 
 Bienvenidos a la asignatura de **Ingeniería de Servidores (ISE)** del curso 25/26. Este repositorio tiene como objetivo gestionar las bitácoras individuales de los alumnos mediante enlaces a sus repositorios privados.
