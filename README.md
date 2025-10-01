@@ -1,5 +1,4 @@
-#Autor
-Javier Peinado Pérez A2
+Autor: Javier Peinado Pérez A2
 
 # Bitácoras de Prácticas de Ingeniería de Servidores - Curso 25/26
 
